@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-69la5i.juragan89a.site/sitemap.xml
